@@ -4,7 +4,7 @@ Nutrition Food Advisor adalah knowlegde-based system yang membantu pengguna memi
 ## Features
 1. Memilih makanan berdasarkan kebutuhan protein
 2. Mempertimbangkan kandungan kalsium
-3. Mempertimbangkan preferensi makanan vegetarian atau tidak
+3. Mempertimbangkan preferensi makanan
 4. Memberikan rekomendasi makanan berdasarkan rule yang telah dibuat
 
 ## Installation
