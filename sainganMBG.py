@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-print("🔥 THIS IS THE NEW SAINGANMBG FILE 🔥")
+
 FOODS = [
     {"no": 1, "name": "Mie Ayam", "energy": 102, "protein": 6.2, "fat": 3.9, "fiber": 0, "sodium": 279, "vegetarian": False, "allergens": ["gluten", "telur", "kedelai"]},
     {"no": 2, "name": "Nasi Rames", "energy": 155, "protein": 10.3, "fat": 4.2, "fiber": 0, "sodium": 255, "vegetarian": False, "allergens": ["kedelai", "telur"]},
