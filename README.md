@@ -18,6 +18,6 @@ Jalankan program dengan "python main.py"
 ## Demo
 
 ## Team
-535580 - Salwa
-539824 - Prisella
-543330 - Alya
+1. 535580 - Salwa
+2. 539824 - Prisella
+3. 543330 - Alya
