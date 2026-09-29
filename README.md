@@ -8,12 +8,12 @@ Nutrition Food Advisor adalah knowlegde-based system yang membantu pengguna memi
 4. Memberikan rekomendasi makanan berdasarkan rule yang telah dibuat
 
 ## Installation
-git clone (...)
+git clone https://github.com/PrisellaAimeeWijaya/Nutrition-Food-Advisor.git
 
 Masuk ke folder project:
-cd (NAMA-REPOSITORY)
+cd Nutrition-Food-Advisor
 
-Jalankan program dengan "python main.py"
+Jalankan program dengan "python sainganMBG.py"
 
 ## Demo
 
