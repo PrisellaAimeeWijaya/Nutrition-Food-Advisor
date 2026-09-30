@@ -16,6 +16,7 @@ cd Nutrition-Food-Advisor
 Jalankan program dengan "python sainganMBG.py"
 
 ## Demo
+Tidak ada demo. Aplikasi dapat dijalankan secara lokal dengan mengikuti langkah-langkah instalasi yang telah dijelaskan di atas.
 
 ## Team
 1. 535580 - Salwa
