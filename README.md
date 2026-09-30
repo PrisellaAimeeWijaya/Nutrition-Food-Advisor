@@ -19,6 +19,6 @@ Jalankan program dengan "python sainganMBG.py"
 Tidak ada demo. Aplikasi dapat dijalankan secara lokal dengan mengikuti langkah-langkah instalasi yang telah dijelaskan di atas.
 
 ## Team
-1. 535580 - Salwa
-2. 539824 - Prisella
-3. 543330 - Alya
+1. Salwa Vindra S. (24/535580/TK/59427)
+2. Prisella Aimee W. (24/539824/TK/59875)
+3. Alya Haniyah (24/543330/TK/60370)
